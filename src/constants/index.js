@@ -59,8 +59,8 @@ import {
 
 import { DiCss3, DiJava} from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1wkPu9i_e2uAdHmbqe0hEM9BfBheJfxkT/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const resumeLink = "https://drive.google.com/file/d/1F0OtYBLBFdDKVrUHfheuzv7NEvoi7iV9/view?usp=sharing";
+export const repoLink = "https://github.com/rishijain07/personal-portfolio-webpage";
 
 export const callToAction = "https://www.linkedin.com/in/beingrishijain";
 
