@@ -28,10 +28,6 @@
 <br/>
 
 
-### Deployment
-
-You can use [Netlify](https://docs.netlify.com/) to deploy your site. Follow the instructions in their docs to do so.
-
 
 ## Installation Guide 
 
