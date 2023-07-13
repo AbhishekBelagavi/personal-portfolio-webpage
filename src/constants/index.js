@@ -260,7 +260,7 @@ export const experiences = [
         duration: "May 2023 - Jul 2023",
         content: [
           {
-            text: "Worked as part of Consumer Lending Business Unit under Consumer Technology line of business.",
+            text: "Worked in Consumer Lending Business Unit under Consumer Technology line of business.",
             link: "",
           },
         ],
@@ -503,12 +503,12 @@ export const extraCurricular = [
     logo: acm,
   },
   {
-    organisation: "BAJA NITK Racinhg, NITK",
+    organisation: "BAJA NITK Racing, NITK",
     title: "Joint Marketing Head",
     duration: "July 2021 - Present",
     content: [
       {
-        text: " Work on bringing sponsors for the Team. Participated in the business event at the national level event. Design Posts and Poster for the official Social Media handles of the Team.",
+        text: " Working on bringing sponsors for the Team. Participated in the business event at the national level event. Design Posts and Poster for the official Social Media handles of the Team.",
         link: "",
       }
     ],
