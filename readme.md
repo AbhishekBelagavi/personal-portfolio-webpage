@@ -4,10 +4,10 @@
 
 ## Table of Contents 📁
 
-1. [Tech Stack](https://github.com/rishijain07/personal-portfolio/blob/main/readme.md#tech-stack)
-5. [Installation Guide](https://github.com/rishijain07/personal-portfolio/blob/main/readme.md#installation-guide)
-7. [References & Inspirations](https://github.com/rishijain07/personal-portfolio/blob/main/readme.md#references--inspirations)
-8. [Illustrations](https://github.com/rishijain07/personal-portfolio/blob/main/readme.md#illustrations)
+1. [Tech Stack](https://github.com/rishijain07/personal-portfolio-webpage/blob/main/readme.md#tech-stack)
+5. [Installation Guide](https://github.com/rishijain07/personal-portfolio-webpage/blob/main/readme.md#installation-guide)
+7. [References & Inspirations](https://github.com/rishijain07/personal-portfolio-webpage/blob/main/readme.md#references--inspirations)
+8. [Illustrations](https://github.com/rishijain07/personal-portfolio-webpage/blob/main/readme.md#illustrations)
    <br>
 
 ## Tech Stack 🧰
