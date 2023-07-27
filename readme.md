@@ -1,6 +1,6 @@
 <h1 align="center"> Personal Portfolio </h1>
 
-### Deployed link: 
+### Deployed link: https://rishipjain.netlify.app/
 
 ## Table of Contents 📁
 
