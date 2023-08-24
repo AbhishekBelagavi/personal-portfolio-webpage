@@ -94,7 +94,7 @@ export const educationList = [
     icon: nitk,
     title: "National Institute of Technology Karnataka, Surathkal",
     degree: "Bachelor of Technology",
-    duration: "December 2020 - Present",
+    duration: "December 2020 - 2024 (Expected)",
     content1: "Major: Information Technology",
     content2: "Minor: School of Management",
   },
@@ -251,7 +251,7 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Wells fargo, India",
+    organisation: "Wells Fargo, India",
     logo: wellsfargo,
     link: "https://www.wellsfargo.com/",
     positions: [
@@ -294,7 +294,7 @@ export const experiences = [
         duration: "Jul 2021 - Oct 2021",
         content: [
           {
-            text: "Worked with team to find vulnerability in power sector websites and make report how to resolve it.",
+            text: "Worked with team to find the vulnerability in power sector websites and make report how to resolve it.",
             link: "",
           },
         ],
@@ -367,7 +367,7 @@ export const projects = [
     link: "",
     image: hostel,
     content:
-      "Built a Website where admin can manage all student’s hostel rooms details and also admin can update the details. Admin can track all cleaning requests and complaints given by students, and It also manages the data of staff members",
+      "Built a Website where admin can manage all student’s hostel room details and also admin can update the details. Admin can track all cleaning requests and complaints given by students, and It also manages the data of staff members",
     stack: [
       {
         id: "icon-1",
@@ -516,7 +516,7 @@ export const extraCurricular = [
   },
   {
     organisation: "E-Cell, NITK",
-    title: "Executive Member,Ex-Media Manager",
+    title: "Executive Member, Ex-Media Manager",
     duration: "Sep 2021 - Present",
     content: [
       {
@@ -547,7 +547,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/whenyoumetrishi",
+    link: "https://www.twitter.com/beingrishijain",
   },
   {
     id: "social-media-5",
@@ -558,6 +558,6 @@ export const socialMedia = [
 
 export const aboutMe = {
     name: "Rishi P Jain",
-    tagLine: "Intern Analyst @ Wells fargo | Technical Seceretary @ ACM, NITK | Marketing Head @ BAJA NITK Racing, NITK ",
+    tagLine: "Ex-Intern Analyst @ Wells Fargo | Technical Secretary @ ACM, NITK | Marketing Head @ BAJA NITK Racing, NITK | Ex-Media Manger, Executive Member @E-Cell NITK",
     intro: "Passionate Student web developer from India, immersed in the art of coding, crafting digital wonders or lost in the vast ocean of ideas, seeking the next wave of innovation."
 }
